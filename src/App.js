@@ -138,7 +138,7 @@ export default function App() {
               <a
                 href={site.link}
                 className="link"
-                rel="noreferrer"
+                rel="noopener noreferrer"
                 target="_blank"
               >
                 <div className="item-wrapper">
